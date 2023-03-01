@@ -1,4 +1,4 @@
-#HW7_1
+#Задание 7.1
 import random
 n=int(input('Введите колличество случайных чисел >>>'))
 for i in range (n):
@@ -13,8 +13,7 @@ print(file_contents)
 
 
 
-
-#HW7_2
+#Задание 7.2
 import HW7_2math
 a = float(input('Введите начало аргумента x >>>'))
 b = float(input('Введите конец аргумента x >>>'))
@@ -31,7 +30,7 @@ print(file_contents)
 
 
 
-#HW7_3
+#Задание 7.3
 text = ''
 while (0==0):
     text = input('Введите слово >>>')
